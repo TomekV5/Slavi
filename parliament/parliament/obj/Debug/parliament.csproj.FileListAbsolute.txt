@@ -1,0 +1,20 @@
+C:\Users\shannon\source\repos\parliament\parliament\bin\Debug\parliament.exe.config
+C:\Users\shannon\source\repos\parliament\parliament\bin\Debug\parliament.exe
+C:\Users\shannon\source\repos\parliament\parliament\bin\Debug\parliament.pdb
+C:\Users\shannon\source\repos\parliament\parliament\obj\Debug\parliament.csproj.AssemblyReference.cache
+C:\Users\shannon\source\repos\parliament\parliament\obj\Debug\parliament.Form1.resources
+C:\Users\shannon\source\repos\parliament\parliament\obj\Debug\parliament.Properties.Resources.resources
+C:\Users\shannon\source\repos\parliament\parliament\obj\Debug\parliament.csproj.GenerateResource.cache
+C:\Users\shannon\source\repos\parliament\parliament\obj\Debug\parliament.csproj.CoreCompileInputs.cache
+C:\Users\shannon\source\repos\parliament\parliament\obj\Debug\parliament.exe
+C:\Users\shannon\source\repos\parliament\parliament\obj\Debug\parliament.pdb
+D:\visi stidion\Projects\parliament\parliament\bin\Debug\parliament.exe.config
+D:\visi stidion\Projects\parliament\parliament\bin\Debug\parliament.exe
+D:\visi stidion\Projects\parliament\parliament\bin\Debug\parliament.pdb
+D:\visi stidion\Projects\parliament\parliament\obj\Debug\parliament.csproj.AssemblyReference.cache
+D:\visi stidion\Projects\parliament\parliament\obj\Debug\parliament.Form1.resources
+D:\visi stidion\Projects\parliament\parliament\obj\Debug\parliament.Properties.Resources.resources
+D:\visi stidion\Projects\parliament\parliament\obj\Debug\parliament.csproj.GenerateResource.cache
+D:\visi stidion\Projects\parliament\parliament\obj\Debug\parliament.csproj.CoreCompileInputs.cache
+D:\visi stidion\Projects\parliament\parliament\obj\Debug\parliament.exe
+D:\visi stidion\Projects\parliament\parliament\obj\Debug\parliament.pdb
